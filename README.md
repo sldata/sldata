@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **dataslawomir@gmail.com**
 
