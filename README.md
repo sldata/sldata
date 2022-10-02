@@ -26,4 +26,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sldata&" alt="sldata" /></p>
 
 
-![snake gif](https://github.com/sldata/sldata/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sldata/sldata/blob/output/github-contribution-grid-snake.gif) 
