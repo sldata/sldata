@@ -25,5 +25,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sldata&show_icons=true&locale=en" alt="sldata" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sldata&" alt="sldata" /></p>
 
-## Snake eating my contribution graph
+
 ![snake gif](https://github.com/sldata/sldata/blob/output/github-contribution-grid-snake.gif)
